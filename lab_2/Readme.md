@@ -54,6 +54,42 @@ Cоздание миграции:
 
 ![Выполнение](/lab_2/images/in_sqlite.png)
 
+Создал первую задачу:
+
+![Выполнение](/lab_2/images/create_task1.png)
+
+Задача в sqlitestudio:
+
+![Выполнение](/lab_2/images/In_sqlite_task1.png)
+
+Создал остальные:
+
+![Выполнение](/lab_2/images/create_othertask.png)
+
+Вывод всех задач:
+
+![Выполнение](/lab_2/images/read_output.png)
+
+Оставшиеся CRUD-операции(READ):
+
+![Выполнение](/lab_2/images/read_other.png)
+
+UPDATE-операция:
+
+![Выполнение](/lab_2/images/update.png)
+
+Delete-операция:
+
+![Выполнение](/lab_2/images/delete.png)
+
+**Задание варианта - фильтарция по приоритету:**
+
+![Выполнение](/lab_2/images/filter_priority.png)
+
+Sqlitestudio после операций:
+
+![Выполнение](/lab_2/images/end_sqlite.png)
+
 ## 4. Контрольные вопросы
 
 **1. Что такое модель в Django и для чего она используется?**  
